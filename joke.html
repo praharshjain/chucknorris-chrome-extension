@@ -1,0 +1,57 @@
+<html>
+
+<head>
+    <title>Chuck Norris Facts</title>
+    <meta name='description' content='Chrome extension to fetch random Chuck Norris jokes from ICNDb API.'>
+    <link rel='shortcut icon' href='icon.png' type='image/png' />
+    <link rel='icon' href='icon.png' type='image/png' />
+    <style>
+        body {
+            background-color: #616161;
+        }
+
+        #icon {
+            display: inline-block;
+            width: 10%;
+            margin-left: 2%;
+            margin-right: 3%;
+            float: left;
+        }
+
+        #joke {
+            display: inline-block;
+            width: 80%;
+            font-size: 16px;
+            line-height: 24px;
+            color: #ffffff;
+        }
+
+        #content {
+            display: none;
+        }
+
+        #loading {
+            width: 100%;
+            height: 100%;
+        }
+
+        #loading-img {
+            position: fixed;
+            left: 225px;
+            top: 40px;
+        }
+    </style>
+</head>
+
+<body>
+    <script src='joke.js'></script>
+    <div id='content'>
+        <img id='icon' src='icon.png' />
+        <div id='joke'></div>
+    </div>
+    <div id='loading'>
+        <img id='loading-img' src='loading.gif' />
+    </div>
+</body>
+
+</html>

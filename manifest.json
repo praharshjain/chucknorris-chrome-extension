@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Chuck Norris Facts",
+    "version": "1.0",
+    "description": "Chrome extension to fetch random Chuck Norris jokes from ICNDb API.",
+    "icons": {
+        "48": "icon.png"
+    },
+    "browser_action": {
+        "default_icon": "icon.png"
+    },
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "web_accessible_resources": ["icon.png"]
+}
