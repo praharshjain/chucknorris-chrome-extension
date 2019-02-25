@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpraharshjain%2Fchucknorris-chrome-extension.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpraharshjain%2Fchucknorris-chrome-extension?ref=badge_shield)
+
 <img src="https://github.com/praharshjain/chucknorris-chrome-extension/blob/master/icon.png" width="30">&nbsp;&nbsp;Chuck Norris Chrome Extension
 ==========
 
@@ -24,3 +26,6 @@ Enjoy!
 License
 ----------------
 MIT
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpraharshjain%2Fchucknorris-chrome-extension.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpraharshjain%2Fchucknorris-chrome-extension?ref=badge_large)
