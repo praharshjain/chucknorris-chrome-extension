@@ -1,4 +1,5 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/praharshjain/chucknorris-chrome-extension/badge)](https://www.codefactor.io/repository/github/praharshjain/chucknorris-chrome-extension) 
+[![CodeFactor](https://www.codefactor.io/repository/github/praharshjain/chucknorris-chrome-extension/badge)](https://www.codefactor.io/repository/github/praharshjain/chucknorris-chrome-extension)
+[![Maintainability](https://api.codeclimate.com/v1/badges/dd459baceab236122428/maintainability)](https://codeclimate.com/github/praharshjain/chucknorris-chrome-extension/maintainability)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpraharshjain%2Fchucknorris-chrome-extension.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpraharshjain%2Fchucknorris-chrome-extension?ref=badge_shield)
 
