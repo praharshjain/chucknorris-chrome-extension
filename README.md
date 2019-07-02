@@ -1,5 +1,6 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/praharshjain/chucknorris-chrome-extension/badge)](https://www.codefactor.io/repository/github/praharshjain/chucknorris-chrome-extension) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpraharshjain%2Fchucknorris-chrome-extension.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpraharshjain%2Fchucknorris-chrome-extension?ref=badge_shield)
-[![CodeFactor](https://www.codefactor.io/repository/github/praharshjain/chucknorris-chrome-extension/badge)](https://www.codefactor.io/repository/github/praharshjain/chucknorris-chrome-extension)
 
 <img src="https://github.com/praharshjain/chucknorris-chrome-extension/blob/master/icon.png" width="30">&nbsp;&nbsp;Chuck Norris Chrome Extension
 ==========
